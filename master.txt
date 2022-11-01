@@ -1,1 +1,2 @@
-This file is created for testing git. 
+This file is created for testing git.
+Second line added to the file.
